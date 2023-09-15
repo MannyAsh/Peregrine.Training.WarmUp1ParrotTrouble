@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmUp1ParrotTrouble", "WarmUp1ParrotTrouble.csproj", "{516D72DA-8D60-4EC4-BF41-36EAF3FFF19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516D72DA-8D60-4EC4-BF41-36EAF3FFF19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516D72DA-8D60-4EC4-BF41-36EAF3FFF19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516D72DA-8D60-4EC4-BF41-36EAF3FFF19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516D72DA-8D60-4EC4-BF41-36EAF3FFF19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23E42C6C-1CBB-418E-B9E8-A74F99319D28}
+	EndGlobalSection
+EndGlobal
